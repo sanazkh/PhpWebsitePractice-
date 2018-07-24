@@ -1,0 +1,149 @@
+body{
+    background-color:blue ;
+    color:#666666 ;
+    background-image: url(background.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    -webkit-box-shadow: 5px 5px 5px #000033;
+    -moz-box-shadow: 5px 5px 5px #000033;
+    box-shadow: 5px 5px 5px #000033;
+    
+}
+#wrapper{
+    margin: 0 auto;
+    width: 80%;
+    background-color: #90C7E3;
+    min-width: 960px;
+}
+label{
+    float: left;
+    width: 100px;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+}
+input{
+    margin-top: 10px;
+}
+textarea{
+    margin-top: 10px;
+}
+form div{
+    clear: left;
+}
+#mySubmit {
+    margin-left: 110px;
+    padding-bottom: 10px;
+}
+h1{
+    background-color:#000033;
+    color:#fff;
+    margin-bottom: 0;
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    padding: 10px;
+    background-position: right;
+    font-family: Georgia, "Times New Roman", serif;
+    
+}
+#nav{
+    padding: 20px 5px 5px 20px;
+    font-weight: bold;
+    float: left;
+    width: 175px;
+}
+#nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    font-size: 1.2em;
+}
+#nav a{
+    text-decoration: none;
+}
+#nave a:link{
+    color: #000033;
+}
+#nav a:visited{
+    color: #344873;
+}
+#nav a:hover{
+    color: #fff;
+}
+#content{
+     padding: 1px 20px 20px 30px;
+    background-color: #fff;
+    margin-left: 175px;
+}
+#content img{
+    padding-right: 20px;
+    float: left;
+}
+#content ul{
+    list-style-position: inside;
+}
+#contact{
+    font-size: 90%;
+}
+#footer{
+    font-size: 75%;
+    font-style: italic;
+    font-family: Georgia, "Times New Roman", serif;
+}
+table{
+    margin: 0 auto;
+    border: 1px solid #3399cc;
+    width: 600px;
+    border-spacing: 0;
+}
+td{
+    padding: 5px;
+    border: 1px solid #3399cc;
+    text-align: center;
+}
+.text{
+    text-align: left;
+}
+tr:nth-of-type(even){
+    background-color: #F5FAFC;
+}
+
+th{
+    padding: 5px;
+    border: 1px solid #3399cc;
+    background-color: #F5FAFC;
+    
+}
+h2{
+    color: #3399cc;
+    font-family: Georgia, "Times New Roman", serif;
+    text-shadow: 1px 1px 1px #ccc;
+}
+h3{
+    color: #000033;
+    font-family: Georgia, "Times New Roman", serif;
+}
+dt{
+    color: #000033;
+    font-weight: bold;
+    font-family: Georgia, "Times New Roman", serif;
+}
+
+
+.resort{
+    color: #000033;
+    font-weight: bold;
+}
+
+#myForm1{
+    list-style-type: none;
+    margin: 0;
+    padding-left: 0;
+    font-size: 1.2em;
+}
+#myPassword1
+{
+    width: 120px;
+}
+#myUserName1{
+    width: 120px;
+}
